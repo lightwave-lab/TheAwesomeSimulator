@@ -10,11 +10,11 @@ aligning Lumerical FDTD grids with Sentaurus SDevice FEM grids.
 
 Typical usage often looks like this::
 
-    #!/usr/bin/env python
     import sys
     sys.path.append('./AwSimLib/') #path to the AwSimLib folder
     from AwSimLib.fileIO import DFISE
     from AwSimLib.sim import grids as grids
+    
 
 Authorship
 =========
