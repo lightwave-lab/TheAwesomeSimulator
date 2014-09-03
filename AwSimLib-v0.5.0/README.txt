@@ -33,4 +33,7 @@ The DF-ISE parser was inspired by the Ph.D thesis of Michael Kelzenberg:
 <http://thesis.library.caltech.edu/5938/1/mkelzenberg_thesis.pdf>
 <http://mkelzenb.caltech.edu/thesis/mk_thesis_appB.pdf>
 
-Although M. Kelzenberg demonstrated a similar method in 2D before (2010), neither had it been shown for 3D nor had it been generalized to handle any data-type. Also, this project was implemented in Python (a free software) as opposed to MATLAB (commercial software).
+Although M. Kelzenberg demonstrated a similar method in 2D before (2010),
+neither had it been shown for 3D nor had it been generalized to handle any
+data-type. Also, this project was implemented in Python (a free software)
+as opposed to MATLAB (commercial software).
